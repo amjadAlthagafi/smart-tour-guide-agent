@@ -1,0 +1,14 @@
+streamlit
+speechrecognition
+langchain
+langsmith
+openai
+pydub
+faiss-cpu
+tiktoken
+langchain-openai
+langchain-community
+pyowm
+weaviate-client
+wikipedia
+duckduckgo-search
